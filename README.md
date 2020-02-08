@@ -15,3 +15,5 @@ reward --> -10 at each step, +50 for catching enemy
 colour --> red
 
 Action --> 4 (move randomly in environment)
+
+![Demo Video](https://i.imgur.com/HsJWkcC.gifv)
